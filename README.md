@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="SINGULARITY" src="https://github.com/user-attachments/assets/04266b79-fa38-4e3d-8e53-4e7fa9627793" />
+<img width="1366" height="768" alt="SINGULARITY" src="https://github.com/user-attachments/assets/27996e7e-b8de-4a05-8265-3aeab1775de6" />
 
 
 ## Hi there 👋
